@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppOfZhejiang</string>
+    <string name="tab_main">首页</string>
+    <string name="tab_flag">景点</string>
+    <string name="tab_map">地图</string>
+    <string name="tab_my">我的</string>
+    <string name="edit_strategy">找攻略</string>
+    <string name="edit_scenic">找景点</string>
+    <string name="localWeather">当地天气：</string>
+    <string name="localPoem">诗画·地点</string>
+    <string name="login">点击登录</string>
+</resources>
